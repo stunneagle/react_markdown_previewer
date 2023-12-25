@@ -68,7 +68,9 @@ class MarkdownRender extends React.Component {
   }
 }
 
-
+// git remote add origin https://github.com/stunneagle/react_markdown_previewer.git
+// git branch -M main
+// git push -u origin main
 
 
 
