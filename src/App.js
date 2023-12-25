@@ -33,6 +33,7 @@ class MarkdownRender extends React.Component {
   render() {
       return (
           <div className='App'>
+            <h1>React Markdown Previewer</h1>
             <img src={logo} className="App-logo" alt="logo" />
       <p>
          This app was built using React!!!
